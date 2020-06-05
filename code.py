@@ -1,2 +1,2 @@
 print('heloo world')
-print(''andrey')
+print('andrey')
